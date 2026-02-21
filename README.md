@@ -3,8 +3,6 @@
 **A minimal, high-performance CRM for agencies and freelancers.**  
 Track leads, manage follow-ups, and close deals — without the complexity.
 
-![LeadFlow AI](public/placeholder.svg)
-
 ---
 
 ## ✨ Features
